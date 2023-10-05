@@ -1,0 +1,642 @@
+{
+"intents": [
+{
+"tag": "articles_of_association",
+"patterns": [
+"Where can I read the articles of association?",
+"How can I find the tenants meetings' articles of association?",
+"Tell me about the articles of association."
+],
+"responses": [
+"To read the articles of association of the tenants meetings, you can contact the president, the vice president, or find them under 'files' on our Facebook group."
+]
+},
+{
+"tag": "property_info",
+"patterns": [
+"Tell me about Aalborghus Kollegiet's location.",
+"What facilities are available at Aalborghus Kollegiet?",
+"Describe the dorm structure at Aalborghus Kollegiet."
+],
+"responses": [
+"Aalborghus Kollegiet is located on a sideway to Sohngårdsholmsvej, with easy access to buses to and from the city center and AAU. The area is attractive to students due to its proximity to the city center and AAU. Facilities include a gym, guest room, cinema, middle building, sauna, bike repair shop, and more. The dorm has two floors with 107 rooms, 4 apartments, and a portner building with apartments and shared facilities. Social events include Friday bars, Tour de Cuisine, Tour de Chambre, Freedom Festival, common dinners, and more."
+]
+},
+{
+"tag": "balconies",
+"patterns": [
+"Tell me about the balconies at Aalborghus Kollegiet.",
+"Where are the balconies located?",
+"Can any tenant use the balconies?"
+],
+"responses": [
+"Aalborghus Kollegiet has two balconies. One is at the end of green2, and the other is at the end of red2. Any tenant can use these balconies as long as they clean up after themselves."
+]
+},
+{
+"tag": "bonfires",
+"patterns": [
+"Can tenants use bonfires at Aalborghus Kollegiet?",
+"Tell me about the bonfire site in front of the middle building.",
+"What rules apply to using the campfire site?"
+],
+"responses": [
+"In the yard in front of the middle building, between block 1 and 2, there is a campfire site available for all tenants. Certain rules and considerations apply, and temporary rules may be implemented for special occasions."
+]
+},
+{
+"tag": "bar_chairman",
+"patterns": [
+"What are the responsibilities of the bar chairman?",
+"Tell me about the role of the bar chairman.",
+"Who is responsible for managing the bar's economy?"
+],
+"responses": [
+"The bar chairman is responsible for hosting Friday bars, managing the bar's economy, coordinating Friday bar events among kitchens, participating in monthly tenant meetings, assisting tenants in hosting events, and being available for inquiries."
+]
+},
+{
+"tag": "beer_sales",
+"patterns": [
+"Can tenants buy beer at Aalborghus Kollegiet?",
+"Tell me about beer sales at the dorm.",
+"How can I get cheap beer in my kitchen?"
+],
+"responses": [
+"Tenants have the option to buy cheap beer in their kitchen. Prices may vary, so inquire with fellow kitchen members for more information."
+]
+},
+{
+"tag": "bike_cleaning",
+"patterns": [
+"What are the rules for bike cleaning?",
+"How should I clean my bike at the collegium?",
+"Tell me about bike cleaning regulations."
+],
+"responses": [
+"Bikes left at the collegium each semester must have strips removed within a specified time frame; otherwise, they may be disposed of. Warnings are communicated through the Facebook group."
+]
+},
+{
+"tag": "bike_repair_shop",
+"patterns": [
+"Where is the bike repair shop located?",
+"How can I access the bike repair shop?",
+"Tell me about the bike repair shop at Aalborghus Kollegiet."
+],
+"responses": [
+"The bike repair shop is located in the basement of block 1 and requires a special key."
+]
+},
+{
+"tag": "block_1_2",
+"patterns": [
+"What is the address of block 1 at Aalborghus Kollegiet?",
+"Tell me about block 2's location.",
+"Where can I find block 1 and block 2?"
+],
+"responses": [
+"Block 1 is located at Kollegievej 4, and block 2 is at Kollegievej 6."
+]
+},
+{
+"tag": "cashier",
+"patterns": [
+"What are the responsibilities of the cashier?",
+"Tell me about the role of the cashier.",
+"Who manages the finances of the collegiate association?"
+],
+"responses": [
+"The cashier is responsible for managing the finances of the collegiate association, including access to bank accounts and handling receipts for purchases made at tenant meetings."
+]
+},
+{
+"tag": "cinema",
+"patterns": [
+"Where is the cinema located at Aalborghus Kollegiet?",
+"Can I access the cinema at the dorm?",
+"Tell me about the cinema in the middle building."
+],
+"responses": [
+"The cinema is located in the middle building and requires a special key."
+]
+},
+{
+"tag": "cleaning",
+"patterns": [
+"What are the responsibilities for cleaning at Aalborghus Kollegiet?",
+"Tell me about cleaning duties at the dorm.",
+"Who is responsible for cleaning personal rooms?"
+],
+"responses": [
+"Cleaning responsibilities at Aalborghus Kollegiet include regular cleaning of personal rooms, a weekly kitchen guard rotation, semester cleaning for kitchens, and biannual cleaning of specific areas in the collegium."
+]
+},
+{
+"tag": "collegiate_association",
+"patterns": [
+"Tell me about the collegiate association at Aalborghus Kollegiet.",
+"What is the collegiate association?",
+"How does the collegiate association work?"
+],
+"responses": [
+"All tenants are part of the collegiate association and contribute a monthly amount through their rent."
+]
+},
+{
+"tag": "collegiate_council",
+"patterns": [
+"Who is part of the collegiate council?",
+"Tell me about the composition of the collegiate council.",
+"What are the responsibilities of the collegiate council?"
+],
+"responses": [
+"The collegiate council includes the president, vice president, cashier, bar chairman, and secretary. Responsibilities include representing tenant interests and facilitating communication between tenants and the board of directors."
+]
+},
+{
+"tag": "collegium_host",
+"patterns": [
+"Where is the collegium host located?",
+"Tell me about the office of the collegium host.",
+"What is the role of the collegium host?"
+],
+"responses": [
+"The collegium host is located in the office in block/building 1 at Kollegievej 4."
+]
+},
+{
+"tag": "common_room",
+"patterns": [
+"Where is the common room located at Aalborghus Kollegiet?",
+"Can I use the common room?",
+"Tell me about the common room in the middle building."
+],
+"responses": [
+"The common room is a big room in the middle building and is used for tenant meetings and social events."
+]
+},
+{
+"tag": "covid_19",
+"patterns": [
+"What are the Covid-19 guidelines at Aalborghus Kollegiet?",
+"Tell me about the rules during the pandemic.",
+"How is Aalborghus Kollegiet managing Covid-19?"
+],
+"responses": [
+"Covid-19 guidelines at Aalborghus Kollegiet include regular updates, testing protocols, isolation measures, and communication channels during the pandemic."
+]
+},
+{
+"tag": "christmas_dinner",
+"patterns": [
+"Are there Christmas dinners at Aalborghus Kollegiet?",
+"Tell me about Christmas dinners at the dorm.",
+"Can I host a Christmas dinner at Aalborghus Kollegiet?"
+],
+"responses": [
+"Halls are encouraged to host Christmas dinners at Aalborghus Kollegiet. Interested parties can contact relevant officials for assistance."
+]
+},
+{
+"tag": "doors",
+"patterns": [
+"What are the instructions for doors at Aalborghus Kollegiet?",
+"Tell me about keeping outer doors closed at the dorm.",
+"Why should outer doors be kept closed year-round?"
+],
+"responses": [
+"All outer doors at Aalborghus Kollegiet must be kept closed year-round for security reasons."
+]
+},
+{
+"tag": "facebook_groups",
+"patterns": [
+"Is there a Facebook group for Aalborghus collegium?",
+"Tell me about the Facebook groups at Aalborghus Kollegiet.",
+"How can I join the Facebook group for the dorm?"
+],
+"responses": [
+"Aalborghus collegium has a Facebook group accessible to all tenants, with specific hall/kitchen groups for more localized information."
+]
+},
+{
+"tag": "facilities",
+"patterns": [
+"What facilities are available in the dorm?",
+"List the facilities at Aalborghus Kollegiet.",
+"Tell me about the amenities in the collegium."
+],
+"responses": [
+"Facilities in the dorm include a music room, gym, guest room, cinema, middle building, sauna, bike repair shop, washing room, drying room, storage room, volleyball court, barbecue, parking lot, bicycle cellar."
+]
+},
+{
+"tag": "friday_bar",
+"patterns": [
+"Tell me about Friday bars at Aalborghus Kollegiet.",
+"How often are Friday bars held?",
+"What is the coordination process for Friday bars?"
+],
+"responses": [
+"Friday bars at Aalborghus Kollegiet are held approximately eight times a year, organized by different kitchens, and offering affordable prices. Coordination involves setting aside days, creating Facebook events, and managing the bar's economy."
+]
+},
+{
+"tag": "foreign_students",
+"patterns": [
+"How many non-Danish students are there at Aalborghus Kollegiet?",
+"Tell me about foreign students at the dorm.",
+"Are there opportunities for bonding among international students?"
+],
+"responses": [
+"There are at least two non-Danish students in every hall at Aalborghus Kollegiet, emphasizing inclusivity, English communication, and bonding opportunities."
+]
+},
+{
+"tag": "general_assembly",
+"patterns": [
+"How often is the general assembly held at Aalborghus Kollegiet?",
+"Tell me about the frequency of general assemblies.",
+"Are there extraordinary general assemblies at the dorm?"
+],
+"responses": [
+"The general assembly at Aalborghus Kollegiet is held every year in October or November, with the possibility of extraordinary general assemblies."
+]
+},
+{
+"tag": "guest_room",
+"patterns": [
+"Where is the guest room located at Aalborghus Kollegiet?",
+"Can I book the guest room?",
+"Tell me about the rules for using the guest room."
+],
+"responses": [
+"The guest room is located in the portner building and can be booked by contacting portner residents. Specific rules and fees apply."
+]
+},
+{
+"tag": "gym",
+"patterns": [
+"Where is the gym located at Aalborghus Kollegiet?",
+"Can I use the gym at any time?",
+"Tell me about the usage of the gym."
+],
+"responses": [
+"The gym at Aalborghus Kollegiet is accessible at all times, with specific time frames for listening to music on the stereo."
+]
+},
+{
+"tag": "instagram",
+"patterns": [
+"What is the Instagram account for Aalborghus Kollegiet?",
+"Tell me about Aalborghus Kollegiet's Instagram.",
+"Is there an Instagram account for the dorm?"
+],
+"responses": [
+"The Instagram account for Aalborghus Kollegiet is @Aalborghuskollegiet."
+]
+},
+{
+"tag": "international_students",
+"patterns": [
+"How many international students are there at Aalborghus Kollegiet?",
+"Tell me about international students at the dorm.",
+"Are there opportunities for bonding among international students?"
+],
+"responses": [
+"There are at least two international rooms in every hall at Aalborghus Kollegiet, encouraging inclusion, English communication, and welcoming gestures."
+]
+},
+{
+"tag": "internet",
+"patterns": [
+"How can I access the internet at Aalborghus Kollegiet?",
+"Tell me about internet access in the dorm.",
+"Can I use personal routers for internet?"
+],
+"responses": [
+"Internet at Aalborghus Kollegiet is provided through LAN cables, with the possibility of using personal routers."
+]
+},
+{
+"tag": "keyholder",
+"patterns": [
+"What are the responsibilities of a keyholder?",
+"Tell me about keyholders at Aalborghus Kollegiet.",
+"Who holds keys for various facilities at the dorm?"
+],
+"responses": [
+"A keyholder at Aalborghus Kollegiet holds keys for various facilities, allowing tenants to borrow keys. They are responsible for checking the room condition after use and are rewarded with discounts for Friday bars."
+]
+},
+{
+"tag": "kitchens",
+"patterns": [
+"How are kitchens structured at Aalborghus Kollegiet?",
+"Tell me about the structure of kitchens in the dorm.",
+"What roles are there in kitchen organization?"
+],
+"responses": [
+"Each kitchen at Aalborghus Kollegiet has a unique color and number. Roles include kitchen representative, cashier/kitchen mama, kitchen duty, and beer guy."
+]
+},
+{
+"tag": "kitchen_duty",
+"patterns": [
+"What is kitchen duty at Aalborghus Kollegiet?",
+"Tell me about rotational responsibilities for kitchen duty.",
+"Who is responsible for keeping the kitchen clean each week?"
+],
+"responses": [
+"Kitchen duty at Aalborghus Kollegiet is a rotational responsibility for keeping the kitchen clean, with a designated person each week."
+]
+},
+{
+"tag": "kitchen_jobs",
+"patterns": [
+"What roles are there in kitchen organization at Aalborghus Kollegiet?",
+"Tell me about kitchen jobs in the dorm.",
+"Who is the beer guy in the kitchen?"
+],
+"responses": [
+"Roles in kitchen organization at Aalborghus Kollegiet include kitchen representative, cashier/kitchen mama, kitchen duty, and beer guy."
+]
+},
+{
+"tag": "kitchen_mama_cashier",
+"patterns": [
+"What are the responsibilities of the kitchen mama/cashier?",
+"Tell me about the varied responsibilities of the kitchen mama/cashier.",
+"Who acts as a link between the kitchen and the collegiate council?"
+],
+"responses": [
+"The kitchen mama/cashier at Aalborghus Kollegiet has varied responsibilities and acts as a link between the kitchen and the collegiate council."
+]
+},
+{
+"tag": "kitchen_meetings",
+"patterns": [
+"How often are kitchen meetings held at Aalborghus Kollegiet?",
+"Tell me about the frequency of kitchen meetings.",
+"Are kitchen meetings recommended?"
+],
+"responses": [
+"Kitchen meetings at Aalborghus Kollegiet are decided by each kitchen, and it is recommended to have at least one per semester."
+]
+},
+{
+"tag": "kitchen_money",
+"patterns": [
+"How is kitchen money allocated at Aalborghus Kollegiet?",
+"Tell me about the budget for each kitchen in the dorm.",
+"What is the kitchen money used for?"
+],
+"responses": [
+"A budget is set aside for each kitchen at Aalborghus Kollegiet to purchase new equipment."
+]
+},
+{
+"tag": "kitchen_representative",
+"patterns": [
+"What are the responsibilities of the kitchen representative?",
+"Tell me about the role of the kitchen representative.",
+"Who votes on behalf of the kitchen at Aalborghus Kollegiet?"
+],
+"responses": [
+"The kitchen representative at Aalborghus Kollegiet has responsibilities such as participation in monthly meetings, voting rights on behalf of the kitchen, and communication between the kitchen and collegiate council."
+]
+},
+{
+"tag": "locked_out",
+"patterns": [
+"What should I do if I get locked out at Aalborghus Kollegiet?",
+"Tell me about the instructions for being locked out.",
+"Is there a cost involved if I get locked out?"
+],
+"responses": [
+"If locked out at Aalborghus Kollegiet, you should contact a specific number. There is a cost involved."
+]
+},
+{
+"tag": "mailbox",
+"patterns": [
+"Where is the mailbox located at Aalborghus Kollegiet?",
+"Can I submit items for meetings in the mailbox?",
+"Tell me about the mailbox on Kollegievej 4."
+],
+"responses": [
+"The mailbox at Aalborghus Kollegiet is located on Kollegievej 4 (block 1) and is used for submitting items for meetings."
+]
+},
+{
+"tag": "minute_taker",
+"patterns": [
+"What are the responsibilities of the minute taker?",
+"Tell me about the role of the minute taker.",
+"Who takes notes at tenant meetings at Aalborghus Kollegiet?"
+],
+"responses": [
+"The minute taker at Aalborghus Kollegiet is responsible for taking notes at tenant meetings and uploading minutes to the Facebook group."
+]
+},
+{
+"tag": "narcotics",
+"patterns": [
+"Are narcotics allowed at Aalborghus Kollegiet?",
+"Tell me about the prohibition of narcotics at the dorm.",
+"What are the consequences of using illegal drugs at Aalborghus Kollegiet?"
+],
+"responses": [
+"All illegal drugs, smoking hashish, etc., are strictly forbidden at Aalborghus Kollegiet, with potential eviction for violations."
+]
+},
+{
+"tag": "party_rules",
+"patterns": [
+"What are the rules for parties at Aalborghus Kollegiet?",
+"Tell me about the rules during parties at the dorm.",
+"Is there a responsibility for cleaning after a party?"
+],
+"responses": [
+"Rules for parties at Aalborghus Kollegiet include adherence to collegium noise rules, responsibility for cleaning, and communication with neighboring kitchens."
+]
+},
+{
+"tag": "posters_rules",
+"patterns": [
+"What are the rules for hanging posters at Aalborghus Kollegiet?",
+"Tell me about the poster rules in the dorm.",
+"Can I hang posters for events in the dorm?"
+],
+"responses": [
+"There is a strict prohibition on hanging posters unrelated to the dorm at Aalborghus Kollegiet. Specific tape is provided for dorm-related events."
+]
+},
+{
+"tag": "portner",
+"patterns": [
+"Where is the portner located at Aalborghus Kollegiet?",
+"Tell me about the location of the portner building.",
+"What is housed in the portner building at the dorm?"
+],
+"responses": [
+"The portner building at Aalborghus Kollegiet is adjacent to block 1 (Kollegievej 4) and houses the guest room."
+]
+},
+{
+"tag": "president",
+"patterns": [
+"What are the responsibilities of the president?",
+"Tell me about the role of the president at Aalborghus Kollegiet.",
+"Who collaborates with the vice president?"
+],
+"responses": [
+"The president at Aalborghus Kollegiet has responsibilities such as collaborating with the vice president, organizing monthly and yearly meetings, participating in board meetings, and publishing financial accounting."
+]
+},
+{
+"tag": "quiet_schedule",
+"patterns": [
+"What is the schedule for quiet hours at Aalborghus Kollegiet?",
+"Tell me about the specific quiet hours on weekdays and weekends.",
+"Are there adjustments for certain events during quiet hours?"
+],
+"responses": [
+"Aalborghus Kollegiet has specific quiet hours on weekdays and weekends, with adjustments for certain events."
+]
+},
+{
+"tag": "rules_of_order",
+"patterns": [
+"What are the rules of order at Aalborghus Kollegiet?",
+"Tell me about the guidelines for rules of order.",
+"Are there specific rules regarding noise at the dorm?"
+],
+"responses": [
+"Aalborghus Kollegiet has specific rules of order regarding noise, smoking, consideration for others, and adherence to kitchen duty."
+]
+},
+{
+"tag": "sauna",
+"patterns": [
+"How can I use the sauna at Aalborghus Kollegiet?",
+"Tell me about the usage of the sauna.",
+"What are the requirements for using the sauna at the dorm?"
+],
+"responses": [
+"The sauna at Aalborghus Kollegiet has specific hours for use on weekdays and weekends, with considerations for music and cleanliness requirements."
+]
+},
+{
+"tag": "smoking",
+"patterns": [
+"Is smoking allowed at Aalborghus Kollegiet?",
+"Tell me about the restrictions on smoking at the dorm.",
+"Where is smoking allowed at Aalborghus Kollegiet?"
+],
+"responses": [
+"Smoking is allowed only outdoors at Aalborghus Kollegiet."
+]
+},
+{
+"tag": "social_events",
+"patterns": [
+"Tell me about the social events at Aalborghus Kollegiet.",
+"List the social events organized within the collegium.",
+"What social events can I participate in at the dorm?"
+],
+"responses": [
+"Various social events are organized within Aalborghus Kollegiet, including Friday bars, yearly Tour de Cuisine, Tour de Chambre, yearly festival 'Freedom Festival,' common dinners, and more."
+]
+},
+{
+"tag": "sohngaardsholmsparken",
+"patterns": [
+"Tell me about Sohngårdsholmspartken near Aalborghus Kollegiet.",
+"What is Sohngårdsholmspartken?",
+"Is Sohngårdsholmspartken accessible from the dorm?"
+],
+"responses": [
+"Sohngårdsholmspartken is a public park near Aalborghus Kollegiet."
+]
+},
+{
+"tag": "spotify",
+"patterns": [
+"Is there a Spotify account for Aalborghus Kollegiet?",
+"Tell me about the Spotify account of the collegiate council.",
+"Can I listen to music from the dorm's Spotify account?"
+],
+"responses": [
+"The collegiate council at Aalborghus Kollegiet has a Spotify account with public playlists."
+]
+},
+{
+"tag": "table_tennis_football_tv",
+"patterns": [
+"Where can I find table tennis, table football, and TV at Aalborghus Kollegiet?",
+"Tell me about the location of table tennis, table football, and the TV package in the dorm.",
+"Are there specific hours for using the table tennis and table football?"
+],
+"responses": [
+"Table tennis, table football, and the TV package are available in the middle building at Aalborghus Kollegiet, with specific hours for stereo use."
+]
+},
+{
+"tag": "vice_president",
+"patterns": [
+"What are the responsibilities of the vice president?",
+"Tell me about the role of the vice president at Aalborghus Kollegiet.",
+"Who collaborates with the president?"
+],
+"responses": [
+"The vice president at Aalborghus Kollegiet collaborates with the president, organizes monthly and yearly meetings, and participates in board meetings."
+]
+},
+{
+"tag": "washer_dryer",
+"patterns": [
+"How can I use the washer and dryer at Aalborghus Kollegiet?",
+"Tell me about the usage of the washer and dryer.",
+"Can I pay for washer and dryer through SMS at the dorm?"
+],
+"responses": [
+"The washer and dryer at Aalborghus Kollegiet are payable through https://mywallet.dk/, with specific codes for SMS payments."
+]
+},
+{
+"tag": "website",
+"patterns": [
+"What is the website of Aalborghus Kollegiet?",
+"Tell me about the practical information provided on the dorm's website.",
+"Can I find information about Aalborghus Kollegiet on the website?"
+],
+"responses": [
+"The website of Aalborghus Kollegiet is www.aabh.dk, providing practical information."
+]
+},
+{
+"tag": "wifi",
+"patterns": [
+"How can I access wifi at Aalborghus Kollegiet?",
+"Tell me about the wifi access in the dorm.",
+"Are there specific login details for using wifi at Aalborghus Kollegiet?"
+],
+"responses": [
+"Wifi at Aalborghus Kollegiet is shared in kitchens, with specific login details."
+]
+},
+{
+"tag": "workshop",
+"patterns": [
+"Where is the workshop located at Aalborghus Kollegiet?",
+"Tell me about the location of the workshop in the dorm.",
+"Is the workshop accessible to all tenants?"
+],
+"responses": [
+"The workshop at Aalborghus Kollegiet is in the basement of block 1 (Kollegievej 4) and is accessible with a special key."
+]
+}
+]
+}
